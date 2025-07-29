@@ -1,1 +1,3 @@
-In this example we wanna update an item on every user UI when one user update that item.
+Also download https://github.com/VahidKala/socket.io---React
+
+Create, Delete, Update items across multiple users.
